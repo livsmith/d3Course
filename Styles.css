@@ -1,0 +1,38 @@
+.title{
+	color: red;
+	font-size: 50px;
+	text-align: cente;
+}
+.description{
+	color: DarkGray;
+	font-size: 23px;
+	padding: 10px;
+	border-style: solid;
+	border-color: black;
+	border-width: 0px 0px 0px 2px;
+	width: 60%;
+	background-color: indigo;
+	margin: auto;
+}
+.image{
+	width: 40%;
+}
+.chart{
+	width: 400px;
+	height: 500px;
+}
+.circle{
+	stroke: green;
+	fill: white;
+	stroke-width: 5;
+}
+.cat{
+	fill:none;
+	stroke: brown;
+	stroke-width: 5;
+}
+.glasses{
+	fill:none;
+	stroke: black;
+	stroke-width: 2;
+}
